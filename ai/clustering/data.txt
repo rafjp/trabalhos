@@ -1,0 +1,81 @@
+model,carbon,millage
+Toyota Prius,1.05680,19.125
+Hyundai Elantra 4 cyl 2 L Automatic 4-spd Regular,1.74373,14.025
+Hyundai Elantra 4 cyl 2 L Manual 5-spd Regular,1.79657,14.025
+Chevrolet Malibu Hybrid 4 cyl 2.4 L Automatic 4-spd Regular,1.79657,13.600
+Kia Spectra 4 cyl 2 L Automatic 4-spd Regular,1.79657,13.600
+Saturn Aura Hybrid 4 cyl 2.4 L Automatic 4-spd Regular,1.79657,13.600
+Nissan Altima 4 cyl 2.5 L Manual 6-spd Regular,1.87583,13.600
+Nissan Altima 4 cyl 2.5 L Automatic (variable gear ratios) Regular,1.87583,13.175
+Kia Spectra 4 cyl 2 L Manual 5-spd Regular,1.87583,12.750
+Honda Accord 4 cyl 2.4 L Manual 5-spd Regular,1.92867,13.175
+Pontiac G6 4 cyl 2.4 L Automatic 4-spd Regular,1.92867,12.750
+Chevrolet Malibu 4 cyl 2.4 L Automatic 4-spd Regular,1.92867,12.750
+Saturn Aura 4 cyl 2.4 L Automatic 4-spd Regular,1.92867,12.750
+Hyundai Sonata 4 cyl 2.4 L Manual 5-spd Regular,1.92867,13.175
+Chevrolet Classic 4 cyl 2.2 L Automatic 4-spd Regular,1.92867,13.175
+Toyota Camry 4 cyl 2.4 L Automatic 5-spd Regular,1.92867,13.175
+Toyota Camry 4 cyl 2.4 L Manual 5-spd Regular,1.92867,13.175
+Kia Optima 4 cyl 2.4 L Automatic 5-spd Regular,1.92867,13.175
+Kia Optima 4 cyl 2.4 L Manual 5-spd Regular,1.92867,13.175
+Honda Accord 4 cyl 2.4 L Automatic 5-spd Regular,2.03435,13.175
+Chrysler Sebring 4 cyl 2.4 L Automatic 4-spd Regular,2.03435,12.750
+Dodge Avenger 4 cyl 2.4 L Automatic 4-spd Regular,2.03435,12.750
+Hyundai Sonata 4 cyl 2.4 L Automatic 4-spd Regular,2.03435,12.750
+Mazda 6 4 cyl 2.3 L Manual 5-spd Regular,2.03435,12.325
+Volkswagen Passat 4 cyl 2 L Manual 6-spd Premium,2.03435,12.325
+Mazda 6 4 cyl 2.3 L Automatic (S5) Regular,2.03435,11.900
+Ford Fusion 4 cyl 2.3 L Manual 5-spd Regular,2.11361,12.325
+Mercury Milan 4 cyl 2.3 L Manual 5-spd Regular,2.11361,12.325
+Ford Fusion 4 cyl 2.3 L Automatic 5-spd Regular,2.11361,11.900
+Mercury Milan 4 cyl 2.3 L Automatic 5-spd Regular,2.11361,11.900
+Kia Optima 6 cyl 2.7 L Automatic 5-spd Regular,2.11361,11.900
+Mitsubishi Galant 4 cyl 2.4 L Automatic (S4) SOHC Regular,2.11361,11.475
+Subaru Legacy AWD 4 cyl 2.5 L Manual 5-spd Regular,2.19287,11.475
+Subaru Legacy AWD 4 cyl 2.5 L Automatic (S4) Regular,2.19287,11.475
+Honda Accord 6 cyl 3.5 L Automatic 5-spd VCM Regular,2.19287,12.325
+Hyundai Sonata 6 cyl 3.3 L Automatic 5-spd Regular,2.19287,11.900
+Toyota Camry 6 cyl 3.5 L Automatic (S6) Regular,2.19287,11.900
+Volkswagen Passat 4 cyl 2 L Automatic (S6) Premium,2.19287,11.900
+Chrysler Sebring 6 cyl 2.7 L Automatic 4-spd Regular,2.19287,11.475
+Dodge Avenger 6 cyl 2.7 L Automatic 4-spd Regular,2.19287,11.475
+Nissan Altima 6 cyl 3.5 L Manual 6-spd Premium,2.19287,11.475
+Nissan Altima 6 cyl 3.5 L Automatic (variable gear ratios) Premium,2.19287,11.050
+Nissan Maxima 6 cyl 3.5 L Automatic (variable gear ratios) Premium,2.29855,10.625
+Subaru Legacy AWD 4 cyl 2.5 L Manual 5-spd Premium,2.29855,10.200
+Pontiac G6 6 cyl 3.5 L Automatic 4-spd Regular,2.19287,12.325
+Chevrolet Malibu 6 cyl 3.5 L Automatic 4-spd Regular,2.19287,12.325
+Saturn Aura 6 cyl 3.5 L Automatic 4-spd Regular,2.19287,12.325
+Ford Taurus FWD 6 cyl 3.5 L Automatic 6-spd Regular,2.19287,11.900
+Mercury Sable FWD 6 cyl 3.5 L Automatic 6-spd Regular,2.19287,11.900
+Chevrolet Classic 6 cyl 3.5 L Automatic 4-spd Regular,2.19287,11.900
+Pontiac Grand Prix 6 cyl 3.8 L Automatic 4-spd Regular,2.29855,11.900
+Ford Fusion 6 cyl 3 L Automatic 6-spd Regular,2.29855,11.050
+Mercury Milan 6 cyl 3 L Automatic 6-spd Regular,2.29855,11.050
+Hyundai Azera 6 cyl 3.3 L Automatic 5-spd Regular,2.29855,11.050
+Mazda 6 6 cyl 3 L Automatic (S6) Regular,2.43065,10.625
+Subaru Legacy AWD 4 cyl 2.5 L Automatic (S5) Premium,2.43065,10.200
+Buick Lacrosse/Allure 6 cyl 3.8 L Automatic 4-spd Regular,2.29855,11.900
+Pontiac G6 6 cyl 3.5 L Automatic (S4) Regular,2.43065,11.050
+Pontiac G6 6 cyl 3.6 L Automatic (S6) Regular,2.43065,11.050
+Chevrolet Malibu 6 cyl 3.6 L Automatic (S6) Regular,2.43065,11.050
+Saturn Aura 6 cyl 3.6 L Automatic (S6) Regular,2.43065,11.050
+Volkswagen Passat 6 cyl 3.6 L Automatic (S6) Premium,2.43065,11.050
+Hyundai Azera 6 cyl 3.8 L Automatic 5-spd Regular,2.43065,11.050
+Buick Lacrosse/Allure 6 cyl 3.6 L Automatic 4-spd Regular,2.43065,10.625
+Ford Fusion AWD 6 cyl 3 L Automatic 6-spd Regular,2.43065,10.625
+Mercury Milan AWD 6 cyl 3 L Automatic 6-spd Regular,2.43065,10.625
+Mazda 6 6 cyl 3 L Manual 5-spd Regular,2.43065,10.625
+Mitsubishi Galant 6 cyl 3.8 L Automatic (S5) SOHC Premium,2.43065,10.625
+Subaru Legacy AWD 4 cyl 2.5 L Manual 6-spd Premium,2.43065,10.200
+Subaru Legacy AWD 6 cyl 3 L Automatic (S5) Premium,2.43065,10.200
+Ford Taurus AWD 6 cyl 3.5 L Automatic 6-spd Regular,2.53633,10.200
+Mercury Sable AWD 6 cyl 3.5 L Automatic 6-spd Regular,2.53633,10.200
+Chrysler Sebring 6 cyl 3.5 L Automatic 6-spd Regular,2.53633,11.050
+Dodge Avenger 6 cyl 3.5 L Automatic 6-spd Regular,2.53633,11.050
+Pontiac Grand Prix 8 cyl 5.3 L Automatic (S4) Premium,2.53633,10.625
+Buick Lacrosse/Allure 8 cyl 5.3 L Automatic 4-spd Premium,2.53633,10.200
+Volkswagen Passat 4motion 6 cyl 3.6 L Automatic (S6) Premium,2.53633,10.200
+Chrysler Sebring AWD 6 cyl 3.5 L Automatic 6-spd Regular,2.69485,10.200
+Dodge Avenger AWD 6 cyl 3.5 L Automatic 6-spd Regular,2.69485,10.200
+Pontiac G6 6 cyl 3.9 L Automatic (S4) Regular,2.69485,9.350
